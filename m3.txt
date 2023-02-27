@@ -1,1 +1,1 @@
-this is m3.txt belong to master branch
+this is now 6 th commit on master 
