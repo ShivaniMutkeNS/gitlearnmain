@@ -1,0 +1,273 @@
+    1  git --version
+    2  git branch
+    3  git config --global user.username<ShivaniMutkeNS>
+    4  git config --global user.username <ShivaniMutkeNS>
+    5  git config --global user.name "ShivaniMutkeNS"
+    6  git config --global user.email "Shivani.Mutke@Noovosoft.com"
+    7  git remote add origin https://github.com/noovosoft/twinntax-api.git~
+    8  git branch
+    9  git status
+   10  git checkout dev-features
+   11  cd E:
+   12  pwd
+   13  cd SpringBoot/
+   14  cd TwinTax/
+   15  cd twinntax-api/
+   16  git staus
+   17  git status
+   18  git diff
+   19  git stash
+   20  git status
+   21  git diff
+   22  git pull
+   23  git branch Fix XML change SUBMIT OR SAVE
+   24  Fix XML change SUBMIT OR SAVE
+   25  git branch
+   26  git branch Fix-xml-command-save-or-submit
+   27  git branch
+   28  git checkout Fix-xml-command-save-or-submit 
+   29  git status
+   30  git pull
+   31  it pull dev-fe
+   32  it pull dev-features
+   33  git pull dev-features
+   34  git status
+   35  git add.
+   36  git add .
+   37  git commit -m "Xml change command button save or submit"
+   38  git status
+   39  git remote add https://github.com/noovosoft/twinntax-api.git
+   40  git remote add origin https://github.com/noovosoft/twinntax-api.git
+   41  git push -u origin Fix-xml-command-save-or-submit
+   42  git status
+   43  git checkout master
+   44  git checkout main
+   45  git stash
+   46  git checkout main
+   47  git push origin -delete Fix-xml-command-save-or-submit
+   48  git push origin --delete Fix-xml-command-save-or-submit
+   49  cd E:
+   50  E:
+   51  cd SpringBoot/
+   52  mkdir gitLearnMain
+   53  cd mak
+   54  cd gitLearnMain/
+   55  git config
+   56  git config --global --get
+   57  git config --global --getall
+   58  git config --global 
+   59  git config --get 
+   60  git config -get
+   61  git config --get
+   62  git init
+   63  git status
+   64  notepad m1.txt
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m "first commit on main branch -m1 file"
+   69  git status
+   70  git config --global user.name "ShivaniMutkeNs"
+   71  git config --global user.email "shivani.mutke@noovosoft.com"
+   72  git config --global user.name
+   73  git config --global user.email
+   74  git remote add origin https://github.com/ShivaniMutkeNS/gitlearnmain.git
+   75  git push origin master
+   76  git pull
+   77  ls
+   78  notepad m1.txt
+   79  git diff
+   80  git add .
+   81  git status
+   82  git commit
+   83  git push
+   84  git push -u origin master
+   85  git checkout git-learn-subbranch
+   86  git pull
+   87  git checkout gitlearn-sub-branch
+   88  notepad m2.txt
+   89  git status
+   90  git add .
+   91  git commit -m "subbranch first commit M2
+"
+   92  git push -u origin gitlearn-sub-branch
+   93  git checkout gitLearnMain
+   94  git checkout main
+   95  git checkout master
+   96  ls
+   97  git checkout main
+   98  ls
+   99  git checkout master
+  100  notepas m3.txt
+  101  notepad m3.txt
+  102  git status 
+  103  git add .
+  104  git commit -m "this is third commit on master"
+  105  git push
+  106  git status
+  107  git add .
+  108  git commit m "this is 4 rth commit on master branch renameing m3 file to m2"
+  109  git commit -m "this is 4 rth commit on master branch renameing m3 file to m2"
+  110  git push
+  111  git branch subbranch3
+  112  git checkout subbranch3
+  113  notepad ss1.txt
+  114  git status
+  115  git add .
+  116  git commit
+  117  git push -u origin subbranch3
+  118  git checkout gitlearn-sub-branch
+  119  git init
+  120  ls
+  121  git log
+  122  git status
+  123  git commit --amend
+  124  git log
+  125  notepad s2.txt
+  126  git status
+  127  git add .
+  128  git commit
+  129  git push 
+  130  git pull
+  131  git rebase master
+  132  git push origin master
+  133  ls
+  134  git push -u origin
+  135  git push origin head:gitlearn-sub-branch
+  136  git push -u origin master
+  137  git log
+  138  git checkout main
+  139  git rebase --abort
+  140  git ls
+  141  ls
+  142  git log
+  143  git log
+  144  git push origin master
+  145  ls
+  146  git push -u origin master
+  147  git push -u origin gitlearn-sub-branch
+  148  git checkout master
+  149  git log
+  150  ls
+  151  notepas m3.txt
+  152  notepad m3.txt
+  153  git add . && git commit -m "this is fifth commit on master branch" 
+  154  git log
+  155  git checkout subbranch3
+  156  git log
+  157  git rebase master
+  158  git log
+  159  git checkout master
+  160  git push origin master
+  161  git checkout subbranch3
+  162  ls
+  163  notepad ss2.txt
+  164  ls
+  165  git add . && git commit -m "this is 2nd commit of subbranch3"
+  166  git push origin subbranch3
+  167  git push -u origin subbranch3
+  168  ls
+  169  git rebase master
+  170  git push -u origin subbranch3
+  171  git push origin master
+  172  git push
+  173  git merge master
+  174  git push -u origin subbranch3
+  175  git status
+  176  git merge subbranch3
+  177  git pull
+  178  ls
+  179  git push origin subbranch3
+  180  git checkout master
+  181  ls
+  182  git checkout main
+  183  ls
+  184  git checkout master
+  185  notepad m4.txt
+  186  git add . && git commit -m "6th commit on master"
+  187  git push origin master
+  188  git checkout gitlearn-sub-branch
+  189  git log
+  190  git rebase
+  191  git rebase master
+  192  git rebase --skip
+  193  git rebase --abort
+  194  git diff master
+  195  rm m2.txt
+  196  ls
+  197  notepad s1.txt
+  198  ls
+  199  git add . && git commit -m "subbrnach1 3rd commit"
+  200  ls
+  201  git push origin gitlearn-sub-branch
+  202  git rebase master
+  203  git rebase --continue
+  204  git merge master
+  205  git rebase --abort
+  206  git checkout subbranch3
+  207  ls
+  208  git rebase master
+  209  ls
+  210  git checkout gitlearn-sub-branch
+  211  ls
+  212  git checkout master
+  213  ls
+  214  git checkout gitlearn-sub-branch
+  215  git rebase master
+  216  git pull
+  217  git log --merge
+  218  git diff
+  219  git rm m2.txt
+  220  git rebase master
+  221  git rebase --continue
+  222  ls
+  223  git mv m3.txt m2.txt
+  224  ls
+  225  git mv m4.txt m3.txt
+  226  ls
+  227  git statu
+  228  git status
+  229  git add . && git commit -m "after rebase after modifying file name"
+  230  git status
+  231  git push  gitlearn-sub-branch
+  232  git push  origin gitlearn-sub-branch
+  233  git pull
+  234  ls
+  235  git push -u origin gitlearn-sub-branch
+  236  git push origin master
+  237  git checkout master
+  238* 
+  239  git push origin master
+  240  git checkout gitlearn-sub-branch
+  241  git pull
+  242  ls
+  243  git rebase master
+  244  ls
+  245  git push origin gitlearn-sub-branch
+  246  git checkout master
+  247  git checkout gitlearn-sub-branch
+  248  git checkout master
+  249  git merger gitlearn-sub-branch 
+  250  git merge gitlearn-sub-branch 
+  251  git status
+  252  git checkout gitlearn-sub-branch
+  253  git checkout gitlearn-sub-branch
+  254  git ls
+  255  ls
+  256  git push origin gitlearn-sub-branch
+  257  git pull
+  258  git checkout master
+  259  git rebase gitlearn-sub-branch
+  260  git status
+  261  git checkout gitlearn-sub-branch
+  262  git status
+  263  git pull
+  264  git push origin gitlearn-sub-branch
+  265  git pull master
+  266  git log
+  267  git reset --soft cc3528ea8b56fd79a930cd040e8e58850d4cb5c4
+  268  git log
+  269  git push origin gitlearn-sub-branch
+  270  git push --help
+  271  git push -f origin gitlearn-sub-branch
+  272  history > gitcommmandspractice.txt
